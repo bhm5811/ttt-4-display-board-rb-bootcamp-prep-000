@@ -10,3 +10,6 @@ end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
+
+board2 = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+display_board(board2)
